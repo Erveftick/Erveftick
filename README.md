@@ -10,7 +10,9 @@
 - 📚 Making research in software verification industry
 - 🤝 I’m open to communication and ready to take part in any project or teach you something interesting :)
 - 📫 How can you reach me:
-    
+
+    #### Portfolio: [Erveftick](https://erveftick.github.io/)
+
     #### Telegram: [@EdwardDK](https://t.me/EdwardDK)
     
     #### LinkedIn: [Eduard Kvashyn](https://www.linkedin.com/in/ekvashyn/)
