@@ -7,8 +7,8 @@
 - 🌐 I can write web-apps/PWA, beautiful front-end, complex back-end, mobile apps, test, verify things and much more 😁.
 - 🔭 Clojure / ClojureScript enthusiast | Cracking my fingers in Emacs
 - 🇺🇦 Ukrainian
-- 📚 Making research in software verification industry
-- 🤝 I’m open to communication and ready to take part in any project or teach you something interesting :)
+- 📚 Crafting immersive digital experiences at Composer.
+- 🤝 I’m open to communication or teach you something interesting :)
 - 📫 How can you reach me:
 
     #### Portfolio: [Erveftick](https://erveftick.github.io/)
